@@ -1,4 +1,7 @@
-# DeploySample
+# deploy-sample
+this is angular deplooy sample
+
+[How to deploy an Angular App](https://medium.com/coinmonks/how-to-deploy-an-angular-app-8db1af39f8c1)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
